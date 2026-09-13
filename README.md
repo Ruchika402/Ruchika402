@@ -27,12 +27,16 @@ I'm a passionate developer building my skills in backend development with **Pyth
 
 ## 🚀 Featured Projects
 
-### 1. [dataspace-academy-summer-intern](https://github.com/Ruchika402/dataspace-academy-summer-intern)
-**AI-Powered Customer Segmentation Platform**
-- Built a Django REST API with machine learning integration (XGBoost)
-- Containerized with Docker for easy deployment
-- Implemented CI/CD pipeline
-- *Tech: Python, Django, DRF, Docker, ML*
+### 1. [Vylink](https://github.com/Ruchika402/Vylink)
+**Secure Image Sharing Platform**
+- Built a full-stack application with Django REST API and React (TypeScript) frontend
+- Implemented JWT authentication via `httpOnly` cookies to prevent XSS token theft
+- Integrated Google OAuth for quick, low-friction user onboarding
+- Added S3 pre-signed URLs (60-second expiry) with private bucket — no public file exposure
+- Enforced OWASP Top 10 security: CSP, HSTS, X-Frame-Options, nosniff, and CSRF protection
+- Built rate limiting (10 uploads/min, 20 shares/min) and Bleach input sanitization to block abuse and XSS
+- Containerized with Docker & Docker Compose for consistent local dev and easier deployment
+- *Tech: Python, Django, React, TypeScript, PostgreSQL, Redis, AWS S3, Docker, Tailwind CSS*
 
 ### 2. [TruthGuard](https://github.com/Ruchika402/TruthGuard)
 **Fake News & Misinformation Detection App**
