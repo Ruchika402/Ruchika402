@@ -1,7 +1,10 @@
 <h3> Hi there!👋 </h3>
+<h2> I'm Ruchika</h2>
+<h3>
+
+ <p align="center"> <font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00B4D8&center=true&vCenter=true&repeat=false&width=500&height=50&lines=I'm Ruchika" alt="Ruchika" /> </p> <p align="center"><i>Backend &amp; Full Stack Developer</i></p> <p align="center"> <a href="https://www.linkedin.com/in/ruchika-adak-082550351/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 
 
- <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00B4D8&center=true&vCenter=true&repeat=false&width=500&height=50&lines=I'm Ruchika" alt="Ruchika" /> </p> <p align="center"><i>Backend &amp; Full Stack Developer</i></p> <p align="center"> <a href="https://www.linkedin.com/in/ruchika-adak-082550351/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <br/> <img src="https://komarev.com/ghpvc/?username=Ruchika402&label=Profile%20Views&color=00B4D8&style=flat" /> </p>
 
 ---
 
