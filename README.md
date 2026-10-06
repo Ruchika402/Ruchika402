@@ -48,8 +48,6 @@ My work so far covers authentication (JWT in `httpOnly` cookies, Google OAuth), 
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-`REST APIs` `JWT & OAuth` `Web Security (OWASP)` `Rate Limiting` `Containerization` `HTTPS / TLS`
-
 **Currently learning:** `FastAPI` · `RAG & LLM integration` · `Deeper AWS`
 
 ---
