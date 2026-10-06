@@ -10,9 +10,8 @@
 
 ## 👋 About Me
 
-I'm a BCA student who builds backend systems with a security-first mindset. I work mainly in the Python ecosystem (Django, Django REST Framework) and take projects all the way from API design to a deployed, HTTPS-secured app on AWS.
+I'm a BCA student .I work mainly in the Python ecosystem (Django, Django REST Framework).
 
-My work so far covers authentication (JWT in `httpOnly` cookies, Google OAuth), private file storage with S3 pre-signed URLs, rate limiting, input sanitization and containerized deployment. I'm now extending into FastAPI and AI/ML integration.
 
 ---
 
