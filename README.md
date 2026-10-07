@@ -61,10 +61,10 @@ I'm a BCA student .I work mainly in the Python ecosystem (Django, Django REST Fr
 ### 🔐 [Vylink](https://github.com/Ruchika402/Vylink)
 **Secure image-sharing platform** · [🌐 Live](https://vylink.duckdns.org)
 
-- JWT auth via `httpOnly` cookies (XSS-safe) + Google OAuth
-- Private S3 bucket with 60-second pre-signed URLs
-- OWASP hardening: CSP, HSTS, X-Frame-Options, CSRF
-- Deployed with Docker on AWS EC2, Nginx, HTTPS via Let's Encrypt
+- JWT authentication stored in httpOnly cookies, with Google OAuth as an alternative sign-in
+- Private S3 bucket; files are served through short-lived pre-signed URLs
+- Security headers configured: CSP, HSTS, X-Frame-Options, and CSRF protection on state-changing endpoints
+- Deployed with Docker on AWS EC2 behind Nginx, with HTTPS via Let's Encrypt
 
 `Django` `DRF` `React` `TypeScript` `PostgreSQL` `Redis` `AWS` `Docker` `Tailwind`
 
@@ -74,10 +74,10 @@ I'm a BCA student .I work mainly in the Python ecosystem (Django, Django REST Fr
 ### 🛡️ [TruthGuard](https://github.com/Ruchika402/TruthGuard)
 **Fake news & misinformation detection** · [🌐 Live](https://truthguard-frontend.onrender.com)
 
-- ML pipeline: TF-IDF + Logistic Regression
-- URL scraping to check article credibility automatically
-- Real-time "Misinfo Score" with explainable insights
-- Django REST API + React frontend
+- ML pipeline using TF-IDF vectorization and Logistic Regression to classify article credibility
+- Scrapes article text from a URL and returns a real-time "Misinfo Score"
+- Explanation panel shows which terms most influenced the model's decision
+- Django REST API backend with a React frontend
 
 `Django` `DRF` `React` `scikit-learn` `Tailwind`
 
