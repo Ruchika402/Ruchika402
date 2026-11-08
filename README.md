@@ -47,7 +47,6 @@ I'm a BCA student .I work mainly in the Python ecosystem (Django, Django REST Fr
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-**Currently learning:** `FastAPI` · `RAG & LLM integration` · `Deeper AWS`
 
 ---
 
