@@ -72,38 +72,37 @@ Currently focused on Python, Django, Django REST Framework, and full-stack devel
 ---
 
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### TruthGuard — Fake News Detection
+A machine learning application for detecting potentially misleading news articles.
+- Developed a text classification model using TF-IDF and Logistic Regression.
+- Implemented URL-based article extraction and REST APIs.
+- Built an interactive React frontend.
 
-### 🔐 [Vylink](https://github.com/Ruchika402/Vylink)
-**Secure image-sharing platform** · [🌐 Live](https://vylink.duckdns.org)
+**Tech Stack:** Python, Django REST Framework, React, scikit-learn, Pandas, Tailwind CSS
 
-- JWT authentication stored in httpOnly cookies, with Google OAuth as an alternative sign-in
-- Private S3 bucket; files are served through short-lived pre-signed URLs
-- Security headers configured: CSP, HSTS, X-Frame-Options, and CSRF protection on state-changing endpoints
-- Deployed with Docker on AWS EC2 behind Nginx, with HTTPS via Let's Encrypt
+[Live Demo](https://truthguard-frontend.onrender.com) | [GitHub](https://github.com/Ruchika402/TruthGuard)
 
-`Django` `DRF` `React` `TypeScript` `PostgreSQL` `Redis` `AWS` `Docker` `Tailwind`
+### StreamLint — AI Code Reviewer
+A real-time code review platform combining AI feedback and static code analysis.
+- Integrated Google Gemini API and Ruff.
+- Implemented real-time communication using WebSockets.
+- Configured Docker and GitHub Actions CI.
 
-</td>
-<td width="50%" valign="top">
+**Tech Stack:** Python, Django, Django Channels, React, TypeScript, PostgreSQL, Redis, Docker
 
-### 🛡️ [TruthGuard](https://github.com/Ruchika402/TruthGuard)
-**Fake news & misinformation detection** · [🌐 Live](https://truthguard-frontend.onrender.com)
+[Live Demo](https://streamlint.vercel.app) | [GitHub](https://github.com/Ruchika402/streamlint)
 
-- ML pipeline using TF-IDF vectorization and Logistic Regression to classify article credibility
-- Scrapes article text from a URL and returns a real-time "Misinfo Score"
-- Explanation panel shows which terms most influenced the model's decision
-- Django REST API backend with a React frontend
+### Vylink — Secure Image Sharing Platform
+A secure image-sharing application with cloud-based storage and authentication.
+- Implemented JWT authentication and Google OAuth.
+- Integrated AWS S3, Redis, and PostgreSQL.
+- Deployed using Docker, AWS EC2, and Nginx.
 
-`Django` `DRF` `React` `scikit-learn` `Tailwind`
+**Tech Stack:** Python, Django REST Framework, React, TypeScript, PostgreSQL, Redis, AWS, Docker
 
-</td>
-</tr>
-</table>
+[Live Demo](https://vylink.duckdns.org) | [GitHub](https://github.com/Ruchika402/Vylink)
 
 ---
 
